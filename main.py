@@ -1197,3 +1197,4 @@ class ResistApp(MDApp):
 
 ResistApp().run()
 fsdfsdfsdf
+jsdnhfgkldfjasdlkfsd;aklfks;ldkf;
